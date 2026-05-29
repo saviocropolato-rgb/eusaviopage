@@ -7,7 +7,7 @@ body{
 font-family: "Montserrat", sans-serif;
 }
 header{
-background-color: #b82b2bde;
+background-color: #000000de;
 color: rgb(255, 255, 255);
 width: 100%;
 padding: 20px;
@@ -27,9 +27,9 @@ align-items: center;
 }
 .titulo_site{
 padding: 50px;
-text-align: center;
+text-align: left;
 width: 50%;
-font: 50px;
+font: 100px;
 }
 .sociais{
 display: flex;
